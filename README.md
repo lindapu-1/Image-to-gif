@@ -4,7 +4,7 @@
 for STAT4766 project**
 
 
-I mainly implement the video generation code on **my_program.ipynb**. Please refer to the notebook and run the cell one by one. Note that you need to select t2v as the kernal in jupyter notebook.
+I mainly implement the video generation code on **my_program.ipynb**. Please refer to the notebook and run the cell for video generation. Before running the cell, please make sure the environment is set up correctly.
 
 
 
@@ -27,8 +27,7 @@ Then the environment is ready. for running the notebook, you may need to install
 
 **sometimes the code cannot run successfully in notebooke. if so, you can try to run the code in terminal by the following command:**  
         `python scripts/text-to-image.py`  
-        `python scripts/text-to-video.py`
-
+        `python -m scripts/text-to-video`
 
 
 

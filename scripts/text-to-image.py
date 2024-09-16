@@ -1,7 +1,7 @@
 ##########################################################################################
 # This is a text-to-image generation 
 # Change the prompt to generate different images
-prompt = "a photo of an astronaut riding a horse on mars"
+prompt = "close up photo of a rabbit, forest, haze, halation, bloom, dramatic atmosphere, centred, rule of thirds, 200mm 1.4f macro shot"
 ##########################################################################################
 import os
 

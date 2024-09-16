@@ -25,6 +25,8 @@ For running the program successfuly, please install the packages in a new enviro
 
 Then the environment is ready. For running the notebook, you may need to install the ipykernal additionally. 
 
+
+Side-note:
 **sometimes the code cannot run successfully in notebook. if so, you can try to run the code in terminal by the following command:**  
 
         python scripts/text-to-image.py  

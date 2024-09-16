@@ -1,8 +1,8 @@
 # Overview
----
-Pu Ruiling 
-for STAT4766 project
----
+
+**Pu Ruiling 
+for STAT4766 project**
+
 
 I mainly implement the video generation code on **my_program.ipynb**. Please refer to the notebook and run the cell one by one. Note that you need to select t2v as the kernal in jupyter notebook.
 

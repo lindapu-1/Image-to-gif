@@ -25,7 +25,7 @@ For running the program successfuly, please install the packages in a new enviro
 
 Then the environment is ready. for running the notebook, you may need to install the ipykernal additionally. 
 
-**sometimes the code cannot run successfully in notebooke. if so, you can try to run the code in terminal by the following command:**  
+**sometimes the code cannot run successfully in notebook. if so, you can try to run the code in terminal by the following command:**  
         `python scripts/text-to-image.py`  
         `python -m scripts/text-to-video`
 

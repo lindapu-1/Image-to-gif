@@ -23,7 +23,7 @@ For running the program successfuly, please install the packages in a new enviro
         pip install -r requirements.txt 
 
 
-Then the environment is ready. for running the notebook, you may need to install the ipykernal additionally. 
+Then the environment is ready. For running the notebook, you may need to install the ipykernal additionally. 
 
 **sometimes the code cannot run successfully in notebook. if so, you can try to run the code in terminal by the following command:**  
 

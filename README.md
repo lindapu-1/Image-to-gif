@@ -17,7 +17,7 @@ Then the environment is ready. for running the notebook, you may need to install
 
 # Overview
 
-I mainly implement the video generation code on my_program.ipynb. Please refer to the notebook and run the cell one by one. Note that you need to select t2v as the kernal in jupyter notebook.
+I mainly implement the video generation code on **my_program.ipynb**. Please refer to the notebook and run the cell one by one. Note that you need to select t2v as the kernal in jupyter notebook.
 
 **sometimes the code cannot run successfully in notebooke. if so, you can try to run the code in terminal by the following command:**  
         `python scripts/text-to-image.py`  

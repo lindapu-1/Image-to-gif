@@ -2,9 +2,10 @@
 
 For running the program successfuly, please install the packages in a new environment(recommended) or the existing environment. Please run the following commands in terminal:
 1. clone the repository  
-        ```git clone https://github.com/lindapu-1/t2v.git    
+        ```git clone https://github.com/lindapu-1/t2v.git
+    
         cd t2v```
-2. create a new environment and install the dependencie  
+3. create a new environment and install the dependencie  
         `conda create -n t2v python=3.10`  
         `conda activate t2v`  
         `pip install -r requirements.txt`  

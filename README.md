@@ -5,10 +5,10 @@ For running the program successfuly, please install the packages in a new enviro
         `git clone https://github.com/lindapu-1/t2v.git`
         cd t2v
 2. create a new environment and install the dependencie  
-'''
-        conda create -n t2v python=3.10 
+'''     conda create -n t2v python=3.10 
         conda activate t2v
-        pip install -r requirements.txt'''
+        pip install -r requirements.txt
+'''
 
 Then the environment is ready. for running the notebook, you may need to install the ipykernal additionally. 
 

@@ -1,4 +1,4 @@
-#environment setup
+# Environment setup
 
 For running the program successfuuly, we setup a new virtual environment for the whole responsitory. Please follow the steps below:
 1. clone the repository
@@ -10,7 +10,7 @@ For running the program successfuuly, we setup a new virtual environment for the
     pip install -r requirements.txt
 Then the environment is ready. for running the notebook, you need to install the ipykernal additionally. 
 
-#Overview
+# Overview
 
 I mainly implement the video generation code on my_program.ipynb. Please refer to the notebook and run the cell one by one. Note that you need to select t2v as the kernal in jupyter notebook.
 
